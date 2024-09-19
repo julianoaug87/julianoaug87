@@ -1,5 +1,5 @@
 #-#
-garoto de rograma
+garoto de programa
 
 <!---
 julianoaug87/julianoaug87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
